@@ -1,2 +1,4 @@
 # find-and-modify-words
-Code that finds words and modifies
+
+Simples programa para em um determinado diretório procurar por palavras específicas nos arquivos e modifica-las
+
